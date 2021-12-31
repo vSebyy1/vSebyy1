@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @vSebyy1
+- 👀 I’m interested in learning C#
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me Dm on discord at vSebyy#9999/89576188946274304
